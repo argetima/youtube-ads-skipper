@@ -1,0 +1,18 @@
+html{
+    background-color: #373737;
+    border: black solid;
+    border-width: 1px;
+  }
+  body{
+    width: 200px;
+  }
+
+  h4, p{
+    color: white;
+  }
+
+  .header-logo{
+      display: block;
+      float: left;
+      margin-right: 10px;
+  }
