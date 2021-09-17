@@ -1,4 +1,4 @@
-const itemsToBeChecked = ['ytp-ad-overlay-close-button', 'ytp-ad-skip-button ytp-button', 'bolt-header-title title-m l'];
+const itemsToBeChecked = ['ytp-ad-overlay-close-button', 'ytp-ad-skip-button ytp-button'];
 
 console.log('Addon Skipper Started...');
 
