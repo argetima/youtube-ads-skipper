@@ -6,6 +6,7 @@ This extension is built for skipping video Ads automatically.
 It is lightweight extension and will not affect your browser performance at all. 
 
 Features:
+
 ✔ Skip Video Ads
 
 ✔ Skip in Video Ads (boring popups)
