@@ -7,8 +7,11 @@ It is lightweight extension and will not affect your browser performance at all.
 
 Features:
 ✔ Skip Video Ads
+
 ✔ Skip in Video Ads (boring popups)
+
 ✔ Count how many videos we skipped
+
 
 Completely free and with no ads
 
