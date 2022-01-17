@@ -15,7 +15,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["*://*.youtube.com/*"],
+            "matches": ["*://*.youtube.com/*", "*://video.gjirafa.com/*"],
             "js": ["content-script.js"],
             "match_about_blank": false,
             "all_frames": true,

@@ -1,4 +1,4 @@
-const itemsToBeChecked = ['ytp-ad-overlay-close-button', 'ytp-ad-skip-button ytp-button'];
+const itemsToBeChecked = ['ytp-ad-overlay-close-button', 'ytp-ad-skip-button ytp-button', 'videoAdUiSkipContainer html5-stop-propagation'];
 
 console.log('Addon Skipper Started...');
 
@@ -10,7 +10,7 @@ setInterval(function(){
 
         if(elements.length > 0)
         {
-            console.log('Element found!!!');
+            console.log('Video Ad found!!!');
             elements[0].click();
 
             chrome.storage.sync.get("VideosSkipped", function (obj) {
